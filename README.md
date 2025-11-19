@@ -1,6 +1,6 @@
 # Edge-Linking-using-Hough-Transformm
-# Name: Ayisha Rinsi K
-# Register No: 212223040022
+# Name: NITHISH S
+# Register No: 212223220070
 ## Aim:
 To write a Python program to detect the lines using Hough Transform.
 
